@@ -11,7 +11,7 @@
   </rdf:RDF>
  </metadata>
  <g id="layer1" transform="translate(0,6)">
-  <path id="path2995-0" style="opacity:.3;fill:#f9f9f9#cdcdcd#fff" d="m0.045872 0 4.9541 5.2336-5 4.7664z"/>
-  <path id="path2995" style="fill:#f9f9f9#cdcdcd#3c3c3c" d="m0.045872-1 4.9541 5.2336-5 4.7664z"/>
+  <path id="path2995-0" style="opacity:.3;fill:#f9f9f9#f9f9f9#cdcdcd#fff" d="m0.045872 0 4.9541 5.2336-5 4.7664z"/>
+  <path id="path2995" style="fill:#f9f9f9#f9f9f9#cdcdcd#3c3c3c" d="m0.045872-1 4.9541 5.2336-5 4.7664z"/>
  </g>
 </svg>

@@ -58,7 +58,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1"
      d="m 10,3 -4,4 -3,0 0,8 3,0 4,4 z m 7,0 0,16 2,0 0,-16 z m -3,2 0,12 2,0 0,-12 z m -3,3 0,6 2,0 0,-6 z"
      id="rect2384"
      inkscape:connector-curvature="0"

@@ -2,3 +2,7 @@
 *~
 #Ignore Icon Theme Cache
 icon-theme.cache
+
+#Ignore Preview Files
+preview.svg
+preview.png

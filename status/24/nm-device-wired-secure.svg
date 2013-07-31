@@ -54,16 +54,16 @@
        id="grid2987" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 6 7 L 6 15 L 8 15 L 8 17 L 10 17 L 10 18 L 14 18 L 14 17 L 14 15 L 15 15 L 15 13 L 18 13 L 18 7 L 6 7 z M 8 8 L 16 8 L 16 10 L 8 10 L 8 8 z "
      id="path2989" />
   <path
-     style="opacity:0.80000000000000004;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.00000000000000004;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 4 4 L 4 20 L 14 20 L 14 19 L 5 19 L 5 5 L 19 5 L 19 13 L 20 13 L 20 4 L 4 4 z "
      id="rect3814" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 16,14 0,1.9375 -1,0 0,4.0625 5,0 0,-4.0625 -1,0 L 19,14 16,14 z m 1,1 1,0 0,0.9375 -1,0 L 17,15 z"
      id="path3835" />
 </svg>

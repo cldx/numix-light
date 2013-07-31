@@ -244,7 +244,7 @@
     </filter>
   </defs>
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 11,4 C 7,4 7,7 7,7 l 0,3 -2,0 0,10 14,0 0,-10 -2,0 0,-3 C 17,4 13,4 13,4 z M 10.84375,7 C 10.9375,6.984375 11,7 11,7 l 2,0 c 1,0 1,1 1,1 l 0,2 -4,0 0,-2 c 0,-0.75 0.5625,-0.953125 0.84375,-1 z"
      id="rect3033"
      inkscape:connector-curvature="0"

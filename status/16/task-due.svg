@@ -160,17 +160,17 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 14,8 0,5 2,0 0,-5 z"
      id="path3800"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 14,14 0,2 2,0 0,-2 z"
      id="path3802"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 6,0 0,1 -4,0 0,14 11,0 0,-8 1,0 0,-6 -3.9375,0 0,-1 L 6,0 z M 4,3 5,3 5,4 11,4 11,3 12,3 12,13 8,13 8,9 4,9 4,3 z m 0,7 3,0 0,3 -3,-3 z"
      id="rect3005"
      inkscape:connector-curvature="0" />

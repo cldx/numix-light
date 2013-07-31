@@ -61,12 +61,12 @@
      id="layer1"
      transform="translate(0,-1028.3622)">
     <path
-       style="fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;opacity:0.8"
+       style="fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;opacity:1.0"
        d="M 4 4 L 4 16 L 13 16 L 17 20 L 17 16 L 20 16 L 20 4 L 4 4 z M 12 6 C 14.209139 6 16 7.790861 16 10 C 16 12.209139 14.209139 14 12 14 C 9.790861 14 8 12.209139 8 10 C 8 7.790861 9.790861 6 12 6 z "
        transform="translate(0,1028.3622)"
        id="path2987" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.8;color:#000000;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
        d="m 11,1035.3622 0,3 0,0 2,2 1,0 1,-1 -2,-1.4375 0,-2.5625 z"
        id="path3887"
        inkscape:connector-curvature="0"

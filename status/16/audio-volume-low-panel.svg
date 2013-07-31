@@ -58,18 +58,18 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1"
      d="m 7,0 -4,4 -3,0 0,8 3,0 4,4 z m 1,5 0,6 2,0 0,-6 z"
      id="rect2384"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccc" />
   <path
-     style="opacity:0.3;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.3;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 11,2 0,12 2,0 0,-12 z"
      id="path2983"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.3;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.3;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 14,0 0,16 2,0 0,-16 z"
      id="path3753"
      inkscape:connector-curvature="0" />

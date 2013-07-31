@@ -229,7 +229,7 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#f9f9f9#cdcdcd#3465a4;fill-opacity:1;stroke:none;opacity:0.80000000000000004"
+     style="fill:#f9f9f9#f9f9f9#cdcdcd#3465a4;fill-opacity:1;stroke:none;opacity:1.00000000000000004"
      d="M 4 6 L 4 18 L 20 18 L 20 6 L 4 6 z M 7 8 L 17 8 L 12 13 L 7 8 z M 6 9 L 12 15 L 18 9 L 18 16 L 6 16 L 6 9 z "
      id="path3015" />
 </svg>

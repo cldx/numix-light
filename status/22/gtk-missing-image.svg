@@ -133,12 +133,12 @@
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.3;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.3;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 5,3 C 3.892,3 3,3.892 3,5 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 19,5 C 19,3.892 18.108,3 17,3 z"
      id="rect3005-8"
      sodipodi:nodetypes="sssssssss" />
   <path
-     style="opacity:0.4;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.4;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 8,6 6,0 0,6 -2,0 0,1 -2,0 0,-2 0,-1 2,0 0,-2 -2,0 0,1 -2,0 z m 2,8 2,0 0,2 -2,0 z"
      id="rect3005"
      inkscape:connector-curvature="0"

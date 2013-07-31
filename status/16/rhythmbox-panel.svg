@@ -58,12 +58,12 @@
   <defs
      id="defs3198" />
   <path
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 3 0 L 3 1 L 2 1 L 2 14 L 3 14 L 3 15 L 10 15 L 10 12.5 L 10 11 L 10 9.65625 C 9.4483498 9.8715783 8.8009351 10 8 10 C 5.2385763 10 4 8.761424 4 6 C 4 3.2385763 5.2385763 2 8 2 C 10.761424 2 12 3.2385763 12 6 C 12 7.2293647 11.734795 8.1304478 11.21875 8.78125 L 14 10.53125 L 14 1 L 13 1 L 13 0 L 3 0 z "
      id="rect2989" />
   <path
      sodipodi:type="arc"
-     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      id="path2999"
      sodipodi:cx="12"
      sodipodi:cy="10"
@@ -72,7 +72,7 @@
      d="m 14,10 a 2,2 0 1 1 -4,0 2,2 0 1 1 4,0 z"
      transform="translate(-4,-4)" />
   <path
-     style="fill:#f9f9f9#cdcdcd#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.8"
+     style="fill:#f9f9f9#f9f9f9#cdcdcd#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:1.0"
      d="m 11,16 0,-6 5,3 z"
      id="path3024"
      inkscape:connector-curvature="0" />
