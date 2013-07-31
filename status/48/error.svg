@@ -22,10 +22,10 @@
   </linearGradient>
  </defs>
  <g id="layer1">
-  <path id="path8836" style="opacity:.3;fill:#cdcdcd-rule:evenodd;fill:url(#radialGradient2486)" d="m47 40c0 4.418-10.297 8-23 8s-23-3.582-23-8 10.297-8 23-8 23 3.582 23 8z"/>
-  <path id="path2555" style="stroke-linejoin:round;stroke:url(#linearGradient2483);stroke-linecap:round;stroke-width:1.0037;fill:#cdcdcdurl(#radialGradient2481)" d="m24 5.5018c-10.758 0-19.498 8.7402-19.498 19.498-0.0002 10.758 8.74 19.498 19.498 19.498s19.498-8.74 19.498-19.498-8.74-19.498-19.498-19.498z"/>
-  <path id="path8655" style="opacity:.4;stroke:url(#linearGradient2478);fill:#cdcdcdnone" d="m42.5 24.999c0 10.218-8.283 18.501-18.5 18.501s-18.5-8.283-18.5-18.501c0-10.217 8.283-18.499 18.5-18.499s18.5 8.282 18.5 18.499z"/>
+  <path id="path8836" style="opacity:.3;fill:#f9f9f9#cdcdcd-rule:evenodd;fill:url(#radialGradient2486)" d="m47 40c0 4.418-10.297 8-23 8s-23-3.582-23-8 10.297-8 23-8 23 3.582 23 8z"/>
+  <path id="path2555" style="stroke-linejoin:round;stroke:url(#linearGradient2483);stroke-linecap:round;stroke-width:1.0037;fill:#f9f9f9#cdcdcdurl(#radialGradient2481)" d="m24 5.5018c-10.758 0-19.498 8.7402-19.498 19.498-0.0002 10.758 8.74 19.498 19.498 19.498s19.498-8.74 19.498-19.498-8.74-19.498-19.498-19.498z"/>
+  <path id="path8655" style="opacity:.4;stroke:url(#linearGradient2478);fill:#f9f9f9#cdcdcdnone" d="m42.5 24.999c0 10.218-8.283 18.501-18.5 18.501s-18.5-8.283-18.5-18.501c0-10.217 8.283-18.499 18.5-18.499s18.5 8.282 18.5 18.499z"/>
   <path id="path2975" style="opacity:.2" d="m9 26h30v-5h-30v5z"/>
-  <path id="path3360" style="fill:#cdcdcd#fff" d="m9 27h30v-5h-30v5z"/>
+  <path id="path3360" style="fill:#f9f9f9#cdcdcd#fff" d="m9 27h30v-5h-30v5z"/>
  </g>
 </svg>

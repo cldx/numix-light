@@ -55,7 +55,7 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <rect
-       style="fill:#cdcdcdnone;fill-opacity:1;stroke:none"
+       style="fill:#f9f9f9#cdcdcdnone;fill-opacity:1;stroke:none"
        id="rect4338"
        width="48"
        height="48"
@@ -65,12 +65,12 @@
     <g
        id="g4334"
        transform="matrix(-1.4815403,0,0,1.4815403,64.407706,-497.55134)"
-       style="fill:#cdcdcd#da931f;fill-opacity:1">
+       style="fill:#f9f9f9#cdcdcd#da931f;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path3015"
          d="m 19.128994,1036.3746 -1.408719,5.2574 4.451231,-4.4512 z"
-         style="fill:#cdcdcd#da931f;fill-opacity:1;stroke:none" />
+         style="fill:#f9f9f9#cdcdcd#da931f;fill-opacity:1;stroke:none" />
       <rect
          ry="7.5761442"
          y="1018.2695"
@@ -78,7 +78,7 @@
          height="18.940361"
          width="24.496199"
          id="rect4332"
-         style="fill:#cdcdcd#da931f;fill-opacity:1;stroke:none" />
+         style="fill:#f9f9f9#cdcdcd#da931f;fill-opacity:1;stroke:none" />
     </g>
     <g
        id="g3772"
@@ -91,14 +91,14 @@
          sodipodi:cy="19.715729"
          sodipodi:cx="24.36993"
          id="path3768"
-         style="fill:#cdcdcd#ffffff;stroke:none"
+         style="fill:#f9f9f9#cdcdcd#ffffff;stroke:none"
          sodipodi:type="arc" />
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
          id="path3770"
          d="m 24.338363,1022.0576 0,3.725 1.673065,0"
-         style="fill:#cdcdcdnone;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#f9f9f9#cdcdcdnone;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

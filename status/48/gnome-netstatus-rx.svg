@@ -68,13 +68,13 @@
          id="g3816"
          style="stroke:#44aa00">
         <path
-           style="fill:#cdcdcdnone;stroke:#44aa00;stroke-width:0.79861110000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#f9f9f9#cdcdcdnone;stroke:#44aa00;stroke-width:0.79861110000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 24.436487,22.467956 0,0.595044 -9.350695,0 0,-3.6936"
            id="path3806"
            transform="translate(0,1004.3622)"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#cdcdcdnone;stroke:#44aa00;stroke-width:0.79861110000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#f9f9f9#cdcdcdnone;stroke:#44aa00;stroke-width:0.79861110000000002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 10.788377,1024.3805 4.297415,0 0,-3.3442 9.350695,0 0,0.595"
            id="path3031"
            inkscape:connector-curvature="0"
@@ -85,7 +85,7 @@
          id="g3812"
          style="stroke:#44aa00">
         <path
-           style="fill:#cdcdcdnone;stroke:#44aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           style="fill:#f9f9f9#cdcdcdnone;stroke:#44aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 20.3125,18.3125 4.5,0"
            id="path3808"
            inkscape:connector-curvature="0"
@@ -94,11 +94,11 @@
            inkscape:connector-curvature="0"
            id="path3810"
            d="m 20.3125,1025.2372 4.5,0"
-           style="fill:#cdcdcdnone;stroke:#44aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+           style="fill:#f9f9f9#cdcdcdnone;stroke:#44aa00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       </g>
     </g>
     <rect
-       style="fill:#cdcdcdnone;stroke:none;stroke-width:0.29508588000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#f9f9f9#cdcdcdnone;stroke:none;stroke-width:0.29508588000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect3841"
        width="47.704914"
        height="47.704914"

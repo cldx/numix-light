@@ -294,13 +294,13 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 0,1 0,13 7.375,0 C 7.555112,13.768272 7.77018,13.566193 8.03125,13.40625 8.086299,11.531847 9.61319,10 11.5,10 c 0.92174,0 1.689539,0.443368 2.3125,1.03125 C 13.878459,11.02606 13.92944,11 14,11 c 0.766865,0 1.467081,0.300208 2,0.78125 L 16,3 8,3 8,1 z"
      id="path3027"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccscsccccc" />
   <path
-     style="opacity:0.8;fill:#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="M 11.5,11 C 10.119288,11 9,12.119288 9,13.5 9,13.672589 9.0292,13.837256 9.0625,14 9.04118,13.9986 9.02166,14 9,14 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 l 5,0 c 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 -0.162234,0 -0.317714,0.02604 -0.46875,0.0625 C 13.079025,11.418326 12.346837,11 11.5,11 z"
      id="path3862"
      inkscape:connector-curvature="0" />

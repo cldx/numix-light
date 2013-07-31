@@ -30,9 +30,9 @@
    <stop id="stop8842-2" style="stop-opacity:0" offset="1"/>
   </radialGradient>
  </defs>
- <path id="path8836-1" style="opacity:.3;fill:#cdcdcd-rule:evenodd;fill:url(#radialGradient2920)" d="m63 53.5c0 5.799-13.879 10.5-31 10.5s-31-4.701-31-10.5 13.879-10.5 31-10.5 31 4.701 31 10.5z"/>
- <path id="path2555-5" style="stroke-linejoin:round;stroke:url(#linearGradient2917);stroke-linecap:round;fill:#cdcdcdurl(#radialGradient2915)" d="m32 8.5018c-14.069 0-25.498 11.429-25.498 25.498s11.429 25.498 25.498 25.498 25.498-11.429 25.498-25.498-11.429-25.498-25.498-25.498z"/>
- <path id="path8655-9" style="opacity:.4;stroke:url(#linearGradient2912);fill:#cdcdcdnone" d="m56.5 33.999c0 13.531-10.97 24.501-24.5 24.501-13.531 0-24.5-10.97-24.5-24.501s10.969-24.499 24.5-24.499c13.53 0 24.5 10.968 24.5 24.499z"/>
+ <path id="path8836-1" style="opacity:.3;fill:#f9f9f9#cdcdcd-rule:evenodd;fill:url(#radialGradient2920)" d="m63 53.5c0 5.799-13.879 10.5-31 10.5s-31-4.701-31-10.5 13.879-10.5 31-10.5 31 4.701 31 10.5z"/>
+ <path id="path2555-5" style="stroke-linejoin:round;stroke:url(#linearGradient2917);stroke-linecap:round;fill:#f9f9f9#cdcdcdurl(#radialGradient2915)" d="m32 8.5018c-14.069 0-25.498 11.429-25.498 25.498s11.429 25.498 25.498 25.498 25.498-11.429 25.498-25.498-11.429-25.498-25.498-25.498z"/>
+ <path id="path8655-9" style="opacity:.4;stroke:url(#linearGradient2912);fill:#f9f9f9#cdcdcdnone" d="m56.5 33.999c0 13.531-10.97 24.501-24.5 24.501-13.531 0-24.5-10.97-24.5-24.501s10.969-24.499 24.5-24.499c13.53 0 24.5 10.968 24.5 24.499z"/>
  <path id="path2975" style="opacity:.2" d="m12 35h40v-6h-40v6z"/>
- <path id="path3360" style="fill:#cdcdcd#fff" d="m12 37h40v-7h-40v7z"/>
+ <path id="path3360" style="fill:#f9f9f9#cdcdcd#fff" d="m12 37h40v-7h-40v7z"/>
 </svg>

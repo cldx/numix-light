@@ -132,7 +132,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.80000000000000004;fill:#cdcdcd#ff0000;fill-opacity:1;stroke:none"
+     style="opacity:0.80000000000000004;fill:#f9f9f9#cdcdcd#ff0000;fill-opacity:1;stroke:none"
      d="M 16 4 C 9.372583 4 4 9.372583 4 16 C 4 22.627417 9.372583 28 16 28 C 22.627417 28 28 22.627417 28 16 C 28 9.372583 22.627417 4 16 4 z M 8 14 L 24 14 L 24 18 L 8 18 L 8 14 z "
      id="path2997" />
 </svg>

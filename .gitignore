@@ -1,2 +1,4 @@
 #Ignore Text Editor Backup Files
 *~
+#Ignore Icon Theme Cache
+icon-theme.cache

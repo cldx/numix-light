@@ -247,18 +247,18 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:0.8;fill:#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 3,7 0,9 4,0 0,1 4,0 0,-1 4,0 0,-9 z m 2,2 8,0 0,5 -8,0 z m 0,9 0,1 8,0 0,-1 z"
      id="rect3028"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccccccccc" />
   <path
-     style="opacity:0.8;fill:#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 7,3 0,3 2,0 0,-1 8,0 0,5 -1,0 0,2 3,0 0,-9 -12,0 z"
      id="rect3028-4"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:0.8;fill:#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:0.8;fill:#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
      d="m 17,12 0,6 -4,0 0,1 5,0 0,-7 z"
      id="path3815"
      inkscape:connector-curvature="0" />
