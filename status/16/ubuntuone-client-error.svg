@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ubuntuone-client-error.svg">
   <metadata
      id="metadata64">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview62"
      showgrid="true"
-     inkscape:zoom="19.869122"
-     inkscape:cx="13.450774"
-     inkscape:cy="11.52901"
+     inkscape:zoom="39.738244"
+     inkscape:cx="4.6517233"
+     inkscape:cy="8.0184351"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -294,8 +294,7 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="M 0,1 0,14 13,14 13,7 16,7 16,3 8,3 8,1 0,1 z m 14,7 0,5 2,0 0,-5 -2,0 z m 0,6 0,2 2,0 0,-2 -2,0 z"
-     id="path3027"
-     inkscape:connector-curvature="0" />
+     style="fill:#d42b2b;fill-opacity:1;stroke:none"
+     d="M 8 3 C 5.23857 3 3 5.23858 3 8 C 3 8.0215 2.99973 8.0411 3 8.0625 C 2.83726 8.0292 2.67259 8 2.5 8 C 1.11928 8 0 9.11929 0 10.5 C 0 11.88071 1.11928 13 2.5 13 L 8 13 L 12.5 13 C 14.43301 13 16 11.433 16 9.5 C 16 7.58786 14.4667 6.0333 12.5625 6 C 11.78823 4.24048 10.0457 3 8 3 z M 6.03125 5.71875 A 1.0001 1.0001 0 0 1 6.9375 6.03125 L 8 7.09375 L 9.0625 6.03125 A 1.0001 1.0001 0 0 1 10.3125 5.875 A 1.0001 1.0001 0 0 1 10.40625 5.9375 A 1.0001 1.0001 0 0 1 10.46875 7.4375 L 9.40625 8.5 L 10.46875 9.5625 A 1.0001 1.0001 0 1 1 9.0625 10.96875 L 8 9.90625 L 6.9375 10.96875 A 1.0001 1.0001 0 1 1 5.53125 9.5625 L 6.5625 8.5 L 5.53125 7.4375 A 1.0001 1.0001 0 0 1 5.375 6.1875 A 1.0001 1.0001 0 0 1 6.03125 5.71875 z "
+     id="path12367-33" />
 </svg>

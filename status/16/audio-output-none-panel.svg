@@ -43,7 +43,7 @@
      id="namedview7"
      showgrid="true"
      inkscape:zoom="19.666666"
-     inkscape:cx="11.344878"
+     inkscape:cx="0.36182678"
      inkscape:cy="5.9768209"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -59,13 +59,14 @@
   </sodipodi:namedview>
   <g
      transform="translate(-247,-227)"
-     id="g10791">
+     id="g10791"
+     style="fill:#dcdcdc;fill-opacity:1">
     <path
        sodipodi:nodetypes="cccccccccccc"
        inkscape:connector-curvature="0"
        id="path10471-0-2-2-8"
        d="m 252.89696,229 c -0.22185,0.024 -0.43466,0.12479 -0.59375,0.28125 L 249.58446,232 l -1.5625,0 c -0.52359,5e-5 -0.99995,0.47642 -1,1 l 0,4 c 5e-5,0.52358 0.47641,0.99995 1,1 l 1.5625,0 2.71875,2.71875 c 0.55536,0.5743 1.73753,0.0799 1.71875,-0.71875 l 0,-10 c 0.004,-0.56796 -0.56147,-1.07095 -1.125,-1 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.2;color:#000000;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.20000000000000001;color:#000000;fill:#dcdcdc;fill-opacity:1;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
     <path
        d="m 257,235 c 0,0.55228 -0.44772,1 -1,1 -0.55228,0 -1,-0.44772 -1,-1 0,-0.55228 0.44772,-1 1,-1 0.55228,0 1,0.44772 1,1 z"
        sodipodi:ry="1"
@@ -73,7 +74,7 @@
        sodipodi:cy="235"
        sodipodi:cx="256"
        id="path10789"
-       style="opacity:0.2;fill:#f9f9f9;fill-opacity:1;stroke:none"
+       style="opacity:0.20000000000000001;fill:#dcdcdc;fill-opacity:1;stroke:none"
        sodipodi:type="arc" />
   </g>
 </svg>

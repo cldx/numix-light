@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="dialog-error.svg">
   <metadata
      id="metadata26">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview24"
      showgrid="true"
      inkscape:zoom="19.666667"
@@ -132,8 +132,8 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#ff0000;fill-opacity:1;stroke:none"
-     d="M 8,0 C 3.581722,0 0,3.581722 0,8 c 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 C 16,3.581722 12.418278,0 8,0 z M 3,7 13,7 13,9 3,9 3,7 z"
+     inkscape:connector-curvature="0"
      id="path2997"
-     inkscape:connector-curvature="0" />
+     d="M 8,0 C 3.58172,0 0,3.58172 0,8 c 0,4.41828 3.58172,8 8,8 4.41828,0 8,-3.58172 8,-8 C 16,3.58172 12.41828,0 8,0 z M 3,7 13,7 13,9 3,9 3,7 z"
+     style="fill:#d42b2b;fill-opacity:1;stroke:none" />
 </svg>

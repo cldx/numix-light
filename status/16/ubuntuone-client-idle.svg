@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="ubuntuone-client-idle.svg">
   <metadata
      id="metadata64">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview62"
      showgrid="true"
      inkscape:zoom="19.869122"
@@ -294,14 +294,8 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="m 0,1 0,13 7.375,0 C 7.555112,13.768272 7.77018,13.566193 8.03125,13.40625 8.086299,11.531847 9.61319,10 11.5,10 c 0.92174,0 1.689539,0.443368 2.3125,1.03125 C 13.878459,11.02606 13.92944,11 14,11 c 0.766865,0 1.467081,0.300208 2,0.78125 L 16,3 8,3 8,1 z"
-     id="path3027"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccscsccccc" />
-  <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="M 11.5,11 C 10.119288,11 9,12.119288 9,13.5 9,13.672589 9.0292,13.837256 9.0625,14 9.04118,13.9986 9.02166,14 9,14 c -0.552285,0 -1,0.447715 -1,1 0,0.552285 0.447715,1 1,1 l 5,0 c 1.104569,0 2,-0.895431 2,-2 0,-1.104569 -0.895431,-2 -2,-2 -0.162234,0 -0.317714,0.02604 -0.46875,0.0625 C 13.079025,11.418326 12.346837,11 11.5,11 z"
-     id="path3862"
+     style="fill:#dcdcdc;fill-opacity:1;stroke:none"
+     d="m 8,3 c 2.045693,0 3.788228,1.24048 4.5625,3 C 14.466694,6.0333 16,7.58786 16,9.5 16,11.433 14.432997,13 12.5,13 L 8,13 2.5,13 C 1.119288,13 0,11.88071 0,10.5 0,9.11929 1.119288,8 2.5,8 2.672589,8 2.837256,8.0292 3,8.0625 2.99973,8.0411 3,8.0215 3,8 3,5.23858 5.238576,3 8,3 z"
+     id="path12367"
      inkscape:connector-curvature="0" />
 </svg>

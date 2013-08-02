@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2160"
-   height="24"
-   width="24"
+   height="16"
+   width="16"
    version="1.0"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="bluetooth-paired.svg">
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview5"
      showgrid="true"
-     inkscape:zoom="19.666667"
-     inkscape:cx="17.239669"
-     inkscape:cy="11.402205"
+     inkscape:zoom="27.812867"
+     inkscape:cx="9.1191299"
+     inkscape:cy="8.4879507"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -57,12 +57,18 @@
        enabled="true"
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
-  <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="M 11 4 L 11 9.40625 L 8 7 L 7 7 L 7 9 L 11 11.875 L 11 12.125 L 7 15 L 7 17 L 8 17 L 11 14.59375 L 11 20 L 12 20 L 14 18.34375 L 14 16 L 13 17 L 13 13.4375 L 15 15 L 15 13 L 15.5 13 L 14.25 12 L 18 9 L 12 4 L 11 4 z M 13 7 L 15 9 L 13 10.5625 L 13 7 z "
-     id="path2988" />
-  <path
-     style="fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;opacity:1.0"
-     d="M 16 14 L 16 15.9375 L 15 15.9375 L 15 20 L 20 20 L 20 15.9375 L 19 15.9375 L 19 14 L 16 14 z M 17 15 L 18 15 L 18 15.9375 L 17 15.9375 L 17 15 z "
-     id="path3835" />
+  <g
+     transform="translate(-127,-437)"
+     id="g4489">
+    <path
+       id="rect13949-4"
+       d="m 136.84375,446 c -0.49159,0.0463 -0.90838,0.50624 -0.90625,1 l 0,5 c 5e-5,0.52358 0.47641,0.99995 1,1 l 5,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-5 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -5,0 c -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 z m 1.15625,1 1,0 0,5 -1,0 0,-1 0,-1 -1,0 0,-1 1,0 0,-2 z m 2,0 1,0 0,2 1,0 0,1 -1,0 0,2 -1,0 0,-5 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff9a38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2988-0"
+       d="m 133,437 0,5.40625 -3,-2.40625 -1,0 0,2 4,2.875 0,0.25 -4,2.875 0,2 1,0 3,-2.40625 0,5.40625 1,0 1,-0.84375 0,-2.15625 0,-3.5625 0,-1.4375 1.25,0 3.75,-3 -6,-5 -1,0 z m 2,3 2,2 -2,1.5625 0,-3.5625 z"
+       style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
+  </g>
 </svg>
