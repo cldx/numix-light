@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,12 +39,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview6"
      showgrid="true"
-     inkscape:zoom="7.375"
-     inkscape:cx="39.359688"
-     inkscape:cy="-2.9403195"
+     inkscape:zoom="20.85965"
+     inkscape:cx="19.286781"
+     inkscape:cy="9.2272804"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -58,9 +58,8 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="m 10,18 0,-4 -3,0 0,-6 1,0 0,-4 2,0 0,4 2,0 0,-4 2,0 0,4 1,0 0,6 -3,0 0,4 z"
-     id="path3956"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="m 8.9062481,3.9687542 a 1.0001,1.0001 0 0 0 -0.125,0.0312 1.0001,1.0001 0 0 0 -0.78125,1 l 0,3 c -0.0312,-0.001 -0.0625,-0.001 -0.0937,0 -0.49158,0.0463 -0.90838,0.50624 -0.90625,1 l 0,3.9999998 c 5e-5,0.52358 0.47642,0.99995 1,1 l 1.9999999,0 0,3 a 1.0001,1.0001 0 1 0 2,0 l 0,-3 2,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-3.9999998 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l 0,-3 a 1.0001,1.0001 0 0 0 -1.21875,-1 1.0001,1.0001 0 0 0 -0.78125,1 l 0,3 -2,0 0,-3 a 1.0001,1.0001 0 0 0 -1.0937499,-1.03125 z"
+     id="rect3412"
+     inkscape:connector-curvature="0" />
 </svg>

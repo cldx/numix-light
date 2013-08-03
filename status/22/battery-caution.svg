@@ -13,7 +13,7 @@
    height="22"
    width="22"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="battery-caution.svg">
   <metadata
      id="metadata10">
@@ -39,7 +39,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview6"
      showgrid="true"
      inkscape:zoom="10.429825"
@@ -60,26 +60,26 @@
   <g
      id="g2986"
      transform="translate(3,3)">
-    <path
-       id="rect2388"
-       d="M 5,0 5,2 3.5,2 3,2 3,2.5 3,15.5 3,16 3.5,16 11,16 11,15 4,15 4,3 12,3 12,6 13,6 13,2.5 13,2 12.5,2 11,2 11,0 9.5,0 6.5,0 5,0 z m 1,1 4,0 0,1 -4,0 0,-1 z"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:1.0;color:#000000;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="rect3162"
-       d="m 5,14 0,-2 6,0 0,2 z"
-       style="opacity:0.3;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3876"
-       d="m 12,16 0,-2 2,0 0,2 z"
-       style="opacity:1.00000000000000004;fill:#f9f9f9#f9f9f9#cdcdcd#cc0000;fill-opacity:1;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3876-5"
-       d="m 12,13 0,-5.9999996 2,0 L 14,13 z"
-       style="opacity:1.00000000000000004;fill:#f9f9f9#f9f9f9#cdcdcd#cc0000;fill-opacity:1;stroke:none" />
+    <g
+       id="g13961"
+       transform="translate(-53.999992,-167)">
+      <path
+         sodipodi:nodetypes="ssccccccccccccccccccccsss"
+         inkscape:connector-curvature="0"
+         id="rect13922"
+         d="m 60,167 c -0.554,0 -1,0.446 -1,1 l 0,1 -1,0 c -0.03123,-0.001 -0.06252,-0.001 -0.09375,0 -0.491584,0.0463 -0.908379,0.50624 -0.90625,1 l 0,12 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 4,0 0,-2 -3,0 0,-10 2,0 0,-2 2,0 0,2 2,0 0,4 2,0 0,-5 c -5.2e-5,-0.52358 -0.476416,-0.99995 -1,-1 l -1,0 0,-1 c 0,-0.554 -0.446,-1 -1,-1 z"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path13936"
+         d="m 60,180 0,-2 2,0 0,2 z"
+         style="fill:#dcdcdc;fill-opacity:1;stroke:none" />
+      <path
+         id="rect13949"
+         d="m 63.90625,176 c -0.491584,0.0463 -0.908379,0.50624 -0.90625,1 l 0,5 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 5,0 c 0.523584,-5e-5 0.999948,-0.47642 1,-1 l 0,-5 c -5.2e-5,-0.52358 -0.476416,-0.99995 -1,-1 l -5,0 c -0.03123,-0.001 -0.06252,-0.001 -0.09375,0 z M 66,177 l 1,0 0,3 -1,0 0,-3 z m 0,4 1,0 0,1 -1,0 0,-1 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff9a38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
 </svg>
