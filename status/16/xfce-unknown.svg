@@ -14,7 +14,7 @@
    width="16"
    version="1.0"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="dialog-question.svg">
+   sodipodi:docname="xfce-unknown.svg">
   <metadata
      id="metadata26">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview24"
      showgrid="true"
      inkscape:zoom="13.906433"
@@ -132,8 +132,8 @@
     </linearGradient>
   </defs>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#204a87;fill-opacity:1;stroke:none"
+     inkscape:connector-curvature="0"
+     id="rect3005-2"
      d="M 2,0 C 0.892,0 0,0.892 0,2 l 0,12 c 0,1.108 0.892,2 2,2 l 12,0 c 1.108,0 2,-0.892 2,-2 L 16,2 C 16,0.892 15.108,0 14,0 L 2,0 z M 5,3 11,3 11,9 9,9 9,10 7,10 7,8 7,7 9,7 9,5 7,5 7,6 5,6 5,3 z m 2,8 2,0 0,2 -2,0 0,-2 z"
-     id="rect3005"
-     inkscape:connector-curvature="0" />
+     style="fill:#729fcf;fill-opacity:1;stroke:none" />
 </svg>
