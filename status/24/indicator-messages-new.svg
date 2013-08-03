@@ -14,8 +14,8 @@
    height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="mail.svg">
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="indicator-messages.svg">
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -38,7 +38,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview55"
      showgrid="true"
      inkscape:zoom="19.666667"
@@ -229,7 +229,8 @@
     </linearGradient>
   </defs>
   <path
-     style="fill:#f9f9f9#f9f9f9#cdcdcd#3465a4;fill-opacity:1;stroke:none;opacity:1.00000000000000004"
-     d="M 4 6 L 4 18 L 20 18 L 20 6 L 4 6 z M 7 8 L 17 8 L 12 13 L 7 8 z M 6 9 L 12 15 L 18 9 L 18 16 L 6 16 L 6 9 z "
-     id="path3015" />
+     inkscape:connector-curvature="0"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#729fcf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 5.25,7 A 1.0001,1.0001 0 0 1 5.59375,7.1875 L 12,11.75 18.40625,7.1875 A 1.0063276,1.0063276 0 0 1 18.8125,7 L 5.25,7 z M 20,8.125 a 1.0063276,1.0063276 0 0 1 -0.40625,0.6875 l -7,5 a 1.0001,1.0001 0 0 1 -1.1875,0 l -7,-5 A 1.0001,1.0001 0 0 1 4,8.28125 L 4,17 c 5.2e-5,0.52358 0.476416,0.99995 1,1 l 14,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-8.875 z"
+     id="rect12827-6" />
 </svg>
