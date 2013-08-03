@@ -6,7 +6,7 @@ Inherits=numix,gnome,hicolor
 Example=edit-delete
 
 #Directory list
-Directories=status/16,status/22,status/24,status/32
+Directories=status/16,status/22,status/24,status/32, status/48
 
 [status/16]
 Size=16
@@ -27,4 +27,9 @@ Type=Fixed
 Size=32
 Context=Status
 Type=Fixed
+
+[status/48]
+Size=48
+Context=Status
+Type=Scalable
 
