@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="task-due.svg">
   <metadata
      id="metadata31">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,7 +37,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview29"
      showgrid="true"
      inkscape:zoom="13.906434"
@@ -159,19 +159,18 @@
          offset="1" />
     </linearGradient>
   </defs>
-  <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="m 14,8 0,5 2,0 0,-5 z"
-     id="path3800"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="m 14,14 0,2 2,0 0,-2 z"
-     id="path3802"
-     inkscape:connector-curvature="0" />
-  <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
-     d="m 6,0 0,1 -4,0 0,14 11,0 0,-8 1,0 0,-6 -3.9375,0 0,-1 L 6,0 z M 4,3 5,3 5,4 11,4 11,3 12,3 12,13 8,13 8,9 4,9 4,3 z m 0,7 3,0 0,3 -3,-3 z"
-     id="rect3005"
-     inkscape:connector-curvature="0" />
+  <g
+     transform="translate(-127.00004,-347)"
+     id="g4363">
+    <path
+       inkscape:connector-curvature="0"
+       id="rect4263"
+       d="M 132.8125,348 A 1.0001,1.0001 0 0 0 132,349 l -2,0 c -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 -0.49158,0.0463 -0.90838,0.50624 -0.90625,1 l 0,12 c 5e-5,0.52358 0.47642,0.99995 1,1 l 5,0 0,-2 0,-4 -4,0 0,-6 1,0 a 1.0001,1.0001 0 0 0 1,1 l 4,0 a 1.0001,1.0001 0 0 0 1,-1 l 1,0 0,4 2,0 0,-5 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -2,0 a 1.0001,1.0001 0 0 0 -1,-1 l -4,0 a 1.0001,1.0001 0 0 0 -0.0937,0 1.0001,1.0001 0 0 0 -0.0937,0 z M 131,358 l 3,0 0,3 -3,-3 z"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+    <path
+       inkscape:connector-curvature="0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#ff9a38;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 136.90626,356 c -0.49159,0.0463 -0.90838,0.50624 -0.90625,1 l 0,5 c 5e-5,0.52358 0.47641,0.99995 1,1 l 5,0 c 0.52358,-5e-5 0.99995,-0.47642 1,-1 l 0,-5 c -5e-5,-0.52358 -0.47642,-0.99995 -1,-1 l -5,0 c -0.0312,-10e-4 -0.0625,-10e-4 -0.0937,0 z m 2.09375,1 1,0 0,3 -1,0 0,-3 z m 0,4 1,0 0,1 -1,0 0,-1 z"
+       id="rect13949-98" />
+  </g>
 </svg>

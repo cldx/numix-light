@@ -13,7 +13,7 @@
    height="16"
    width="16"
    version="1.0"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="transmission-tray-icon.svg">
   <metadata
      id="metadata17">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,11 +39,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="712"
      id="namedview13"
      showgrid="true"
      inkscape:zoom="6.9532167"
-     inkscape:cx="13.768908"
+     inkscape:cx="-17.295851"
      inkscape:cy="9.9589626"
      inkscape:window-x="0"
      inkscape:window-y="27"
@@ -58,7 +58,7 @@
        snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <path
-     style="opacity:1.0;fill:#f9f9f9#f9f9f9#cdcdcd#000000;fill-opacity:1;stroke:none"
+     style="opacity:1;fill:#dcdcdc;fill-opacity:1;stroke:none"
      d="m 4,2 0,2 3,0 0,6 2,0 0,-6 3,0 0,-2 z m -1,5 -2,8 14,0 -2,-8 -3,0 0,4 -4,0 0,-4 z"
      id="path2996"
      inkscape:connector-curvature="0"
